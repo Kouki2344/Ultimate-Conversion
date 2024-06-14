@@ -51,5 +51,4 @@ while True:
         
     else:
       print("Invalid Unit")
-    if from_unit != ('mm', 'cm', 'm', 'km','ms', 's', 'min', 'h', 'day', 'year', 'mg', 'g', 'kg', 't'):
-      print("Invaild unit")
+    
